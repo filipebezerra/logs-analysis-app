@@ -24,12 +24,12 @@ Logs Analysis application is a project part of Nanodegree Full Stack Web Develop
  
  ## Download the source
  
- You can clone this repository using git or you can [download it](https://github.com/full-stack-web-developer-nanodegree/logs-analysis-app/archive/master.zip).
+ You can clone this repository using git or you can [download it](https://github.com/filipebezerra/logs-analysis-app/archive/master.zip).
  
  Use the following command to clone using git:
  
  ```bash
-git clone https://github.com/full-stack-web-developer-nanodegree/logs-analysis-app.git
+git clone https://github.com/filipebezerra/logs-analysis-app.git
 ```
  
  ## Setup
