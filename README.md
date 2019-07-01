@@ -120,6 +120,12 @@ git clone https://github.com/full-stack-web-developer-nanodegree/logs-analysis-a
             ) AS fails
             WHERE round(100.0 * fail_percent, 2) > 1.00;
          ```
+2. Install python packages (may be required)
+ 
+    ```bash
+    sudo apt-get install python-psycopg2
+    sudo pip install psycopg2
+    ```
  
  ## Running the application
  
